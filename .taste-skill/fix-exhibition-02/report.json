@@ -1,0 +1,2045 @@
+{
+ "url": "exhibition-02.html",
+ "at": "2026-10-29T10:53:19.954Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.44,
+    0.32,
+    0.25,
+    0.29,
+    0.38,
+    0.56,
+    0.94,
+    0.48,
+    0.6,
+    0.8
+   ],
+   "motion": {
+    "elements": 29,
+    "css": 5,
+    "transitions": 24,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 8477,
+     "screens": 9.4,
+     "words": 604,
+     "img": 7,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "city-vaults-etching.jpg",
+      "city-square-etching.jpg",
+      "city-vaults-etching.jpg",
+      "city-island-light.jpg",
+      "city-island-panorama.jpg",
+      "city-station-skylight.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A City That Forgot To Fall",
+     "words": 6,
+     "chars": 26,
+     "lines": 2,
+     "size": 100,
+     "vw": 6.9,
+     "font": "Erode",
+     "weight": 500,
+     "tracking": -0.02,
+     "leading": 0.96,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.95,
+     "top": 419,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A City That Forgot To Fall",
+     "words": 6,
+     "lines": 2,
+     "size": 100,
+     "font": "Erode"
+    },
+    "headings": [
+     {
+      "text": "A City That Forgot To Fall",
+      "words": 6,
+      "chars": 26,
+      "lines": 2,
+      "size": 100,
+      "vw": 6.9,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 419,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Orsade",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 82.2,
+      "vw": 5.7,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 1073,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Wardens",
+      "words": 2,
+      "chars": 11,
+      "lines": 2,
+      "size": 82.2,
+      "vw": 5.7,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.27,
+      "top": 2226,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Leaving",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 82.2,
+      "vw": 5.7,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 3653,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The upkeep, year by year",
+      "words": 5,
+      "chars": 24,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.01,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 5587,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "212",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.06,
+      "top": 5652,
+      "tag": "output",
+      "kind": "heading"
+     },
+     {
+      "text": "What remains",
+      "words": 2,
+      "chars": 12,
+      "lines": 2,
+      "size": 82.2,
+      "vw": 5.7,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 6710,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Orsade did not fall. It was simply never told to stop.",
+      "words": 11,
+      "chars": 54,
+      "lines": 2,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 7930,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Erode",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      19,
+      26,
+      36,
+      64,
+      82,
+      100
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Erode",
+      "size": 19,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8.7
+     },
+     "measureChars": 76,
+     "max": {
+      "size": 100,
+      "vw": 6.9,
+      "font": "Erode",
+      "text": "A City That"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#d6d3ca",
+       "top": 0,
+       "hsl": {
+        "h": 45,
+        "s": 0.13,
+        "l": 0.82
+       }
+      },
+      {
+       "color": "#e1dfd9",
+       "top": -63,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#ecebe7",
+       "top": 900,
+       "hsl": {
+        "h": 48,
+        "s": 0.12,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#38450f",
+       "top": 7768,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.77
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.2
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ecebe7",
+      "hsl": {
+       "h": 48,
+       "s": 0.12,
+       "l": 0.92
+      },
+      "fg": "#38450f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Begin the exhibition ↓"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 25,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "erode"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 8477,
+    "margins": {
+     "left": 36,
+     "right": 36
+    },
+    "sections": [
+     {
+      "sel": "header.ex-hero",
+      "tag": "header",
+      "top": 0,
+      "height": 900,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "A City That",
+       "size": 100,
+       "tag": "h1"
+      },
+      "left": 36,
+      "right": 795,
+      "textLeft": 36,
+      "textRight": 795,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-1.chapter",
+      "tag": "section",
+      "top": 900,
+      "height": 1153,
+      "words": 66,
+      "media": 1,
+      "middle": 410,
+      "heading": {
+       "text": "Orsade",
+       "size": 82,
+       "tag": "h2"
+      },
+      "left": 36,
+      "right": 0,
+      "textLeft": 36,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-2.chapter.chapter--mirror",
+      "tag": "section",
+      "top": 2053,
+      "height": 1428,
+      "words": 105,
+      "media": 1,
+      "middle": 11,
+      "heading": {
+       "text": "The Wardens",
+       "size": 82,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 308,
+      "textLeft": 36,
+      "textRight": 308,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-3.chapter",
+      "tag": "section",
+      "top": 3481,
+      "height": 1192,
+      "words": 76,
+      "media": 1,
+      "middle": 272,
+      "heading": {
+       "text": "The Leaving",
+       "size": 82,
+       "tag": "h2"
+      },
+      "left": 36,
+      "right": 0,
+      "textLeft": 36,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.panorama.is-near",
+      "tag": "section",
+      "top": 4672,
+      "height": 742,
+      "words": 17,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 734,
+      "right": 168,
+      "textLeft": 734,
+      "textRight": 168,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#upkeep.instrument",
+      "tag": "section",
+      "top": 5414,
+      "height": 1123,
+      "words": 118,
+      "media": 0,
+      "middle": 328,
+      "heading": {
+       "text": "The upkeep, year by year",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 36,
+      "right": 34,
+      "textLeft": 36,
+      "textRight": 52,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-4.chapter",
+      "tag": "section",
+      "top": 6537,
+      "height": 1231,
+      "words": 75,
+      "media": 1,
+      "middle": 440,
+      "heading": {
+       "text": "What remains",
+       "size": 82,
+       "tag": "h2"
+      },
+      "left": 36,
+      "right": 36,
+      "textLeft": 36,
+      "textRight": 73,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.ex-close",
+      "tag": "section",
+      "top": 7768,
+      "height": 709,
+      "words": 88,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Orsade did not fall.",
+       "size": 36,
+       "tag": "p"
+      },
+      "left": 36,
+      "right": 849,
+      "textLeft": 36,
+      "textRight": 849,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 1924,
+      "height": 300
+     },
+     {
+      "top": 3308,
+      "height": 344
+     },
+     {
+      "top": 5240,
+      "height": 340
+     },
+     {
+      "top": 6352,
+      "height": 356
+     },
+     {
+      "top": 7596,
+      "height": 336
+     }
+    ],
+    "h1s": [
+     {
+      "text": "A City That Forgot To Fall",
+      "size": 100,
+      "top": 419,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 36,
+      "n": 12
+     },
+     {
+      "x": 734,
+      "n": 4
+     },
+     {
+      "x": 103,
+      "n": 1
+     },
+     {
+      "x": 851,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 18,
+    "bodySize": 26,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.55,
+    0.59,
+    0.65,
+    0.46,
+    0.73,
+    0.77,
+    0.67,
+    0.87
+   ],
+   "motion": {
+    "elements": 35,
+    "css": 5,
+    "transitions": 30,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 7945,
+     "screens": 7.8,
+     "words": 604,
+     "img": 7,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "city-vaults-etching.jpg",
+      "city-square-etching.jpg",
+      "city-vaults-etching.jpg",
+      "city-island-light.jpg",
+      "city-island-panorama.jpg",
+      "city-station-skylight.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A City That Forgot To Fall",
+     "words": 6,
+     "chars": 26,
+     "lines": 2,
+     "size": 72.8,
+     "vw": 9.5,
+     "font": "Erode",
+     "weight": 500,
+     "tracking": -0.02,
+     "leading": 0.96,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.94,
+     "top": 625,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A City That Forgot To Fall",
+     "words": 6,
+     "lines": 2,
+     "size": 72.8,
+     "font": "Erode"
+    },
+    "headings": [
+     {
+      "text": "A City That Forgot To Fall",
+      "words": 6,
+      "chars": 26,
+      "lines": 2,
+      "size": 72.8,
+      "vw": 9.5,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 625,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Orsade",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 51.3,
+      "vw": 6.7,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 1116,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Wardens",
+      "words": 2,
+      "chars": 11,
+      "lines": 2,
+      "size": 51.3,
+      "vw": 6.7,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 2192,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Leaving",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 51.3,
+      "vw": 6.7,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 3509,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The upkeep, year by year",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.01,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 5046,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "212",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 5331,
+      "tag": "output",
+      "kind": "heading"
+     },
+     {
+      "text": "What remains",
+      "words": 2,
+      "chars": 12,
+      "lines": 2,
+      "size": 51.3,
+      "vw": 6.7,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 6188,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Orsade did not fall. It was simply never told to stop.",
+      "words": 11,
+      "chars": 54,
+      "lines": 2,
+      "size": 29.9,
+      "vw": 3.9,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.7,
+      "top": 7433,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Erode",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      18,
+      23,
+      30,
+      45,
+      51,
+      73
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Erode",
+      "size": 23,
+      "leading": 1.35,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 1
+     },
+     "measureChars": 57,
+     "max": {
+      "size": 72.8,
+      "vw": 9.5,
+      "font": "Erode",
+      "text": "A City That"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#d6d3ca",
+       "top": 0,
+       "hsl": {
+        "h": 45,
+        "s": 0.13,
+        "l": 0.82
+       }
+      },
+      {
+       "color": "#e1dfd9",
+       "top": -72,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#ecebe7",
+       "top": 1024,
+       "hsl": {
+        "h": 48,
+        "s": 0.12,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#38450f",
+       "top": 7257,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.77
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.2
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ecebe7",
+      "hsl": {
+       "h": 48,
+       "s": 0.12,
+       "l": 0.92
+      },
+      "fg": "#38450f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Begin the exhibition ↓"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 24,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "erode"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 7945,
+    "margins": {
+     "left": 22,
+     "right": 22
+    },
+    "sections": [
+     {
+      "sel": "header.ex-hero",
+      "tag": "header",
+      "top": 0,
+      "height": 1024,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 22,
+      "right": 209,
+      "textLeft": 22,
+      "textRight": 209,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-1.chapter",
+      "tag": "section",
+      "top": 1024,
+      "height": 1076,
+      "words": 66,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Orsade",
+       "size": 51,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 101,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-2.chapter.chapter--mirror",
+      "tag": "section",
+      "top": 2100,
+      "height": 1318,
+      "words": 105,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The Wardens",
+       "size": 51,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 91,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-3.chapter",
+      "tag": "section",
+      "top": 3417,
+      "height": 1110,
+      "words": 76,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The Leaving",
+       "size": 51,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 119,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.panorama.is-near",
+      "tag": "section",
+      "top": 4527,
+      "height": 426,
+      "words": 17,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 22,
+      "right": 240,
+      "textLeft": 22,
+      "textRight": 240,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#upkeep.instrument",
+      "tag": "section",
+      "top": 4954,
+      "height": 1143,
+      "words": 118,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The upkeep, year by year",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 20,
+      "textLeft": 22,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-4.chapter",
+      "tag": "section",
+      "top": 6096,
+      "height": 1160,
+      "words": 75,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "What remains",
+       "size": 51,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 106,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.ex-close",
+      "tag": "section",
+      "top": 7257,
+      "height": 689,
+      "words": 88,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 22,
+      "right": 219,
+      "textLeft": 22,
+      "textRight": 219,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A City That Forgot To Fall",
+      "size": 73,
+      "top": 625,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 22,
+      "n": 15
+     }
+    ],
+    "leftBlocks": 15,
+    "bodySize": 23,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 9,
+   "filled": [
+    0.58,
+    0.54,
+    0.63,
+    0.6,
+    0.81,
+    0.97,
+    0.41,
+    0.77,
+    0.92
+   ],
+   "motion": {
+    "elements": 35,
+    "css": 5,
+    "transitions": 30,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 7049,
+     "screens": 8.4,
+     "words": 604,
+     "img": 7,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "city-vaults-etching.jpg",
+      "city-square-etching.jpg",
+      "city-vaults-etching.jpg",
+      "city-island-light.jpg",
+      "city-island-panorama.jpg",
+      "city-station-skylight.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A City That Forgot To Fall",
+     "words": 6,
+     "chars": 26,
+     "lines": 2,
+     "size": 44.9,
+     "vw": 11.5,
+     "font": "Erode",
+     "weight": 500,
+     "tracking": -0.02,
+     "leading": 0.96,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 496,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A City That Forgot To Fall",
+     "words": 6,
+     "lines": 2,
+     "size": 44.9,
+     "font": "Erode"
+    },
+    "headings": [
+     {
+      "text": "A City That Forgot To Fall",
+      "words": 6,
+      "chars": 26,
+      "lines": 2,
+      "size": 44.9,
+      "vw": 11.5,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 496,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Orsade",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 924,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Wardens",
+      "words": 2,
+      "chars": 11,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 1745,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Leaving",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 2867,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The upkeep, year by year",
+      "words": 5,
+      "chars": 24,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.01,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4156,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "212",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 4422,
+      "tag": "output",
+      "kind": "heading"
+     },
+     {
+      "text": "What remains",
+      "words": 2,
+      "chars": 12,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 5498,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Orsade did not fall. It was simply never told to stop.",
+      "words": 11,
+      "chars": 54,
+      "lines": 2,
+      "size": 23.8,
+      "vw": 6.1,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6496,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Erode",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      17,
+      20,
+      24,
+      33,
+      40,
+      45
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Erode",
+      "size": 20.3,
+      "leading": 1.35,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 1
+     },
+     "measureChars": 34,
+     "max": {
+      "size": 44.9,
+      "vw": 11.5,
+      "font": "Erode",
+      "text": "A City That"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#d6d3ca",
+       "top": 0,
+       "hsl": {
+        "h": 45,
+        "s": 0.13,
+        "l": 0.82
+       }
+      },
+      {
+       "color": "#e1dfd9",
+       "top": -59,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#ecebe7",
+       "top": 844,
+       "hsl": {
+        "h": 48,
+        "s": 0.12,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#38450f",
+       "top": 6344,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.77
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.2
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ecebe7",
+      "hsl": {
+       "h": 48,
+       "s": 0.12,
+       "l": 0.92
+      },
+      "fg": "#38450f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Begin the exhibition ↓"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 24,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "erode"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 7049,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "header.ex-hero",
+      "tag": "header",
+      "top": 0,
+      "height": 844,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "A City That",
+       "size": 45,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 48,
+      "textLeft": 20,
+      "textRight": 48,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-1.chapter",
+      "tag": "section",
+      "top": 844,
+      "height": 821,
+      "words": 66,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Orsade",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 21,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-2.chapter.chapter--mirror",
+      "tag": "section",
+      "top": 1665,
+      "height": 1122,
+      "words": 105,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The Wardens",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 27,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-3.chapter",
+      "tag": "section",
+      "top": 2787,
+      "height": 882,
+      "words": 76,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The Leaving",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 26,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.panorama.is-near",
+      "tag": "section",
+      "top": 3669,
+      "height": 407,
+      "words": 17,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 33,
+      "textLeft": 20,
+      "textRight": 33,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#upkeep.instrument",
+      "tag": "section",
+      "top": 4076,
+      "height": 1342,
+      "words": 118,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The upkeep, year by year",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 18,
+      "textLeft": 20,
+      "textRight": 36,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-4.chapter",
+      "tag": "section",
+      "top": 5418,
+      "height": 926,
+      "words": 75,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "What remains",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.ex-close",
+      "tag": "section",
+      "top": 6344,
+      "height": 704,
+      "words": 88,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 24,
+      "textLeft": 20,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A City That Forgot To Fall",
+      "size": 45,
+      "top": 496,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 15
+     }
+    ],
+    "leftBlocks": 15,
+    "bodySize": 20,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "grey-body",
+   "width": 768,
+   "message": "The running text is a soft grey on its ground (1:1).",
+   "fix": "Set body copy in the full ink (7:1 or more). Keep the muted ink for secondary notes; pages read thin and unfinished when everything is grey.",
+   "alsoAt": [
+    390
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\fix-exhibition-02\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\fix-exhibition-02\\desktop-page-01.jpg",
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\fix-exhibition-02\\desktop-page-02.jpg",
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\fix-exhibition-02\\desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\fix-exhibition-02\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\fix-exhibition-02\\tablet-page-01.jpg",
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\fix-exhibition-02\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\fix-exhibition-02\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\fix-exhibition-02\\mobile-page-01.jpg",
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\fix-exhibition-02\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

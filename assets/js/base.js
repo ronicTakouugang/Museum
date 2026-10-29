@@ -11,10 +11,20 @@
   const io = new IntersectionObserver((entries) => {
     for (const entry of entries) {
       if (!entry.isIntersecting) continue;
-      entry.target.classList.add('is-in');
-      io.unobserve(entry.target);
+      const el = entry.target;
+      io.unobserve(el);
+      // a picture is only uncovered once it can be drawn (or after 250ms, whichever comes first)
+      const img = el.querySelector('img');
+      const ready = img && !img.complete
+        ? Promise.race([img.decode().catch(() => {}), new Promise((r) => setTimeout(r, 250))])
+        : Promise.resolve();
+      ready.then(() => {
+        el.classList.add('is-in');
+        // once the entrance has played, hover and focus get their own short timing
+        setTimeout(() => el.classList.add('is-settled'), 1200);
+      });
     }
-  }, { rootMargin: '0px 0px -12% 0px', threshold: 0.1 });
+  }, { rootMargin: '0px 0px -4% 0px', threshold: 0.05 });
   targets.forEach((el) => io.observe(el));
   // safety net: if anything is still hidden a few seconds after load (observer never fired), show it
   window.addEventListener('load', () => setTimeout(() => {

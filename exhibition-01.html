@@ -10,6 +10,7 @@
 <link href="https://api.fontshare.com/v2/css?f[]=erode@400,401,500,600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/style.css">
 <script>document.documentElement.classList.add('js')</script>
+<script src="assets/js/transitions.js"></script>
 </head>
 <body>
 
@@ -23,13 +24,13 @@
 <main id="main">
 
   <header class="ex-hero">
-    <div class="plate">
+    <div class="plate plate--trim opening-plate">
       <img class="cover" src="assets/img/coastal-ruins-imaginary.jpg" width="3871" height="2412" alt="An imagined coastline crowded with towers, domes and ruined colonnades, drawn in pen and ink." loading="eager">
     </div>
     <div class="ex-hero__content">
-      <h1 class="ex-hero__title">The World That<br>Never Happened</h1>
-      <p class="ex-hero__lead lead">The first exhibition. A federation built a machine to keep what grief could not. This is what survived the keeping.</p>
-      <p class="ex-hero__scroll"><a class="button" href="#chapter-1">Begin the exhibition ↓</a></p>
+      <h1 class="ex-hero__title lines" style="view-transition-name: ex-title-1"><span class="line"><span data-line style="--i: 0">The World That</span></span><span class="line"><span data-line style="--i: 1">Never Happened</span></span></h1>
+      <p class="ex-hero__lead lead" data-rise style="--i: 3">The first exhibition. A federation built a machine to keep what grief could not. This is what survived the keeping.</p>
+      <p class="ex-hero__scroll" data-rise style="--i: 4"><a class="button button--inverse" href="#chapter-1">Begin the exhibition ↓</a></p>
     </div>
   </header>
 
@@ -52,7 +53,7 @@
     </div>
   </section>
 
-  <section class="chapter" id="chapter-2">
+  <section class="chapter chapter--mirror" id="chapter-2">
     <div class="wrap grid">
       <div class="chapter__title-col">
         <h2 class="chapter__title">The Keeping</h2>
@@ -97,6 +98,16 @@
         </figure>
       </div>
     </div>
+    <div class="wrap grid crossed" data-reveal>
+      <blockquote class="crossed__item">
+        <p>“…my grandmother's wedding. The lanterns on the harbour wall, the blue of her sleeve.”</p>
+        <footer class="crossed__record"><span>Spoken by a ferry clerk of the fourth city, aged nineteen.</span><span>Whose memory: not established.</span></footer>
+      </blockquote>
+      <blockquote class="crossed__item">
+        <p>“…his first word was boat. I marked the day on the doorframe, under the others.”</p>
+        <footer class="crossed__record"><span>Spoken by a lamp keeper with no recorded children.</span><span>Whose memory: not established.</span></footer>
+      </blockquote>
+    </div>
   </section>
 
   <section class="chapter" id="chapter-4">
@@ -109,7 +120,7 @@
           <p>What the museum holds are memory shells: fragments of the Keeping's archive, pulled from wherever the record resurfaces. Each one is catalogued, dated where possible, and displayed exactly as incomplete as it was found. We do not restore what the Keeping lost. We only keep what it kept.</p>
         </div>
         <figure class="chapter__block" data-reveal>
-          <div class="chapter__figure plate">
+          <div class="chapter__figure chapter__figure--tall plate plate--object">
             <img class="cover" src="assets/img/funerary-tablet.jpg" width="1756" height="3008" alt="A fragment of painted terracotta, cracked and partially missing." loading="lazy">
           </div>
           <figcaption class="chapter__caption">A memory shell, fragment 212–A. Its subject is unidentified.</figcaption>
@@ -122,8 +133,9 @@
     <div class="wrap">
       <p class="ex-close__statement" data-reveal>The Long Archive continues.<br>Still being catalogued.</p>
       <div class="ex-close__links" data-reveal>
-        <a class="button" href="index.html">Return to the museum</a>
-        <a class="link" href="index.html#exhibition" style="color: var(--field-1-ink);">Offer the Keeping a word</a>
+        <a class="button button--inverse" href="exhibition-02.html">Next: A City That Forgot To Fall</a>
+        <a class="link" href="index.html#exhibition">Offer the Keeping a word</a>
+        <a class="link" href="index.html">Return to the museum</a>
       </div>
     </div>
   </section>
@@ -131,5 +143,6 @@
 </main>
 
 <script src="assets/js/base.js" defer></script>
+<script src="assets/js/detail.js" defer></script>
 </body>
 </html>

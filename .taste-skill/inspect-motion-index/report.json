@@ -1,0 +1,2206 @@
+{
+ "url": "index.html",
+ "at": "2026-10-29T10:29:32.822Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.27,
+    0.97,
+    0.97,
+    0.22,
+    0.66,
+    0.21,
+    0.43,
+    0.31,
+    0.8,
+    1
+   ],
+   "motion": {
+    "elements": 25,
+    "css": 1,
+    "transitions": 24,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 8268,
+     "screens": 9.2,
+     "words": 430,
+     "img": 9,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 9,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "archive-vault.jpg",
+      "coastal-ruins-imaginary.jpg",
+      "listening-array.jpg",
+      "funerary-tablet.jpg",
+      "listening-array.jpg",
+      "control-panel.jpg",
+      "coastal-ruins-imaginary.jpg",
+      "archive-vault.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Lost Futures . The Museum of Lost Futures",
+     "words": 8,
+     "chars": 41,
+     "lines": 2,
+     "size": 140,
+     "vw": 9.7,
+     "font": "Erode",
+     "weight": 500,
+     "tracking": -0.03,
+     "leading": 0.82,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 1,
+     "top": 0,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Lost Futures . The Museum of Lost Futures",
+     "words": 8,
+     "lines": 3,
+     "size": 38,
+     "font": "Erode"
+    },
+    "headings": [
+     {
+      "text": "Lost Futures . The Museum of Lost Futures",
+      "words": 8,
+      "chars": 41,
+      "lines": 2,
+      "size": 140,
+      "vw": 9.7,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.03,
+      "leading": 0.82,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 0,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Now open",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.01,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 3798,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What survives",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.01,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 5039,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "211",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 5162,
+      "tag": "dt",
+      "kind": "heading"
+     },
+     {
+      "text": "9",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 5259,
+      "tag": "dt",
+      "kind": "heading"
+     },
+     {
+      "text": "4,181",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 5332,
+      "tag": "dt",
+      "kind": "heading"
+     },
+     {
+      "text": "0",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 5405,
+      "tag": "dt",
+      "kind": "heading"
+     },
+     {
+      "text": "The World That Never Happened",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 140,
+      "vw": 9.7,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.015,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.76,
+      "top": 5744,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "A City That Forgot To Fall",
+      "words": 6,
+      "chars": 26,
+      "lines": 2,
+      "size": 140,
+      "vw": 9.7,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.015,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.76,
+      "top": 6002,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "The Language No One Spoke Again",
+      "words": 6,
+      "chars": 31,
+      "lines": 2,
+      "size": 140,
+      "vw": 9.7,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.015,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.76,
+      "top": 6260,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "The archive is still being written.",
+      "words": 6,
+      "chars": 35,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.015,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 7464,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Museum of Lost Futures",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 240,
+      "vw": 16.7,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 8123,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Erode",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      19,
+      26,
+      30,
+      64,
+      140,
+      240
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Erode",
+      "size": 19,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8.7
+     },
+     "measureChars": 57,
+     "max": {
+      "size": 240,
+      "vw": 16.7,
+      "font": "Erode",
+      "text": "Museum of Lost Futures"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ecebe7",
+       "top": 900,
+       "hsl": {
+        "h": 48,
+        "s": 0.12,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#d6d3ca",
+       "top": 900,
+       "hsl": {
+        "h": 45,
+        "s": 0.13,
+        "l": 0.82
+       }
+      },
+      {
+       "color": "#e1dfd9",
+       "top": 900,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#38450f",
+       "top": 7368,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.61
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.32
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.08
+      }
+     ],
+     "button": {
+      "bg": "#38450f",
+      "hsl": {
+       "h": 74,
+       "s": 0.64,
+       "l": 0.16
+      },
+      "fg": "#ecebe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Enter the first exhibition →"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 9,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.18
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": true,
+     "height": 94,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "erode"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 8268,
+    "margins": {
+     "left": 20,
+     "right": 36
+    },
+    "sections": [
+     {
+      "sel": "h1.monument",
+      "tag": "h1",
+      "top": 0,
+      "height": 900,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "div.stage",
+      "tag": "div",
+      "top": 0,
+      "height": 2700,
+      "words": 43,
+      "media": 3,
+      "middle": 522,
+      "heading": null,
+      "left": 48,
+      "right": 36,
+      "textLeft": 48,
+      "textRight": 879,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.intro",
+      "tag": "section",
+      "top": 2700,
+      "height": 986,
+      "words": 69,
+      "media": 1,
+      "middle": 359,
+      "heading": null,
+      "left": 17,
+      "right": 66,
+      "textLeft": 36,
+      "textRight": 66,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#exhibition.showcase",
+      "tag": "section",
+      "top": 3686,
+      "height": 1192,
+      "words": 44,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Now open",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 24,
+      "textRight": 807,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.stats",
+      "tag": "section",
+      "top": 4877,
+      "height": 787,
+      "words": 38,
+      "media": 1,
+      "middle": 244,
+      "heading": {
+       "text": "What survives",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 152,
+      "right": 133,
+      "textLeft": 152,
+      "textRight": 736,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#catalogue.catalogue",
+      "tag": "section",
+      "top": 5664,
+      "height": 933,
+      "words": 20,
+      "media": 0,
+      "middle": 315,
+      "heading": {
+       "text": "The World That Never Happened",
+       "size": 140,
+       "tag": "span"
+      },
+      "left": 36,
+      "right": 36,
+      "textLeft": 36,
+      "textRight": 36,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about",
+      "tag": "section",
+      "top": 6597,
+      "height": 770,
+      "words": 103,
+      "media": 0,
+      "middle": 99,
+      "heading": null,
+      "left": 36,
+      "right": 330,
+      "textLeft": 36,
+      "textRight": 330,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 7368,
+      "height": 900,
+      "words": 101,
+      "media": 0,
+      "middle": 426,
+      "heading": {
+       "text": "The archive is still being written.",
+       "size": 64,
+       "tag": "p"
+      },
+      "left": 36,
+      "right": 36,
+      "textLeft": 36,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Lost Futures . The Museum of Lost Futures",
+      "size": 38,
+      "top": 0,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 260,
+      "n": 3
+     },
+     {
+      "x": 36,
+      "n": 2
+     },
+     {
+      "x": 48,
+      "n": 2
+     },
+     {
+      "x": 20,
+      "n": 1
+     },
+     {
+      "x": 152,
+      "n": 1
+     },
+     {
+      "x": 734,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 10,
+    "bodySize": 26,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.22,
+    "voidBox": {
+     "x": 600,
+     "y": 120,
+     "w": 480,
+     "h": 600
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 9,
+   "filled": [
+    0.17,
+    0.96,
+    0.96,
+    0.29,
+    0.73,
+    0.08,
+    0.23,
+    0.34,
+    1
+   ],
+   "motion": {
+    "elements": 24,
+    "css": 0,
+    "transitions": 24,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 9075,
+     "screens": 8.9,
+     "words": 430,
+     "img": 9,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 8,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "coastal-ruins-imaginary.jpg",
+      "listening-array.jpg",
+      "funerary-tablet.jpg",
+      "listening-array.jpg",
+      "control-panel.jpg",
+      "coastal-ruins-imaginary.jpg",
+      "archive-vault.jpg",
+      "cliffs-sea.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Lost Futures . The Museum of Lost Futures",
+     "words": 8,
+     "chars": 41,
+     "lines": 2,
+     "size": 138.9,
+     "vw": 18.1,
+     "font": "Erode",
+     "weight": 500,
+     "tracking": -0.03,
+     "leading": 0.82,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 1,
+     "top": 0,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Lost Futures . The Museum of Lost Futures",
+     "words": 8,
+     "lines": 3,
+     "size": 35.8,
+     "font": "Erode"
+    },
+    "headings": [
+     {
+      "text": "Lost Futures . The Museum of Lost Futures",
+      "words": 8,
+      "chars": 41,
+      "lines": 2,
+      "size": 138.9,
+      "vw": 18.1,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.03,
+      "leading": 0.82,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 0,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Now open",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.01,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 4231,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What survives",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.01,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 5509,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The World That Never Happened",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 62.4,
+      "vw": 8.1,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.015,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.76,
+      "top": 6621,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "A City That Forgot To Fall",
+      "words": 6,
+      "chars": 26,
+      "lines": 2,
+      "size": 62.4,
+      "vw": 8.1,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.015,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.76,
+      "top": 6743,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "The Language No One Spoke Again",
+      "words": 6,
+      "chars": 31,
+      "lines": 2,
+      "size": 62.4,
+      "vw": 8.1,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.015,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.76,
+      "top": 6865,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "The archive is still being written.",
+      "words": 6,
+      "chars": 35,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.015,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 8127,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Museum of Lost Futures",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 208.6,
+      "vw": 27.2,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 8949,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Erode",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      18,
+      23,
+      24,
+      45,
+      62,
+      139,
+      209
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Erode",
+      "size": 23,
+      "leading": 1.4,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8.7
+     },
+     "measureChars": 63,
+     "max": {
+      "size": 208.6,
+      "vw": 27.2,
+      "font": "Erode",
+      "text": "Museum of Lost Futures"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ecebe7",
+       "top": 1024,
+       "hsl": {
+        "h": 48,
+        "s": 0.12,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#d6d3ca",
+       "top": 1024,
+       "hsl": {
+        "h": 45,
+        "s": 0.13,
+        "l": 0.82
+       }
+      },
+      {
+       "color": "#e1dfd9",
+       "top": 1024,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#38450f",
+       "top": 8051,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.61
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.32
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.08
+      }
+     ],
+     "button": {
+      "bg": "#38450f",
+      "hsl": {
+       "h": 74,
+       "s": 0.64,
+       "l": 0.16
+      },
+      "fg": "#ecebe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Enter the first exhibition →"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 5,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 0,
+     "fixed": true,
+     "height": 92,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "erode"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 9075,
+    "margins": {
+     "left": 22,
+     "right": 22
+    },
+    "sections": [
+     {
+      "sel": "h1.monument",
+      "tag": "h1",
+      "top": 0,
+      "height": 1024,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "div.stage",
+      "tag": "div",
+      "top": 0,
+      "height": 3072,
+      "words": 43,
+      "media": 2,
+      "middle": 0,
+      "heading": null,
+      "left": 22,
+      "right": 483,
+      "textLeft": 22,
+      "textRight": 483,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.intro",
+      "tag": "section",
+      "top": 3072,
+      "height": 1083,
+      "words": 69,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 22,
+      "right": 29,
+      "textLeft": 22,
+      "textRight": 29,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#exhibition.showcase",
+      "tag": "section",
+      "top": 4155,
+      "height": 1179,
+      "words": 44,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Now open",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 22,
+      "textRight": 183,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.stats",
+      "tag": "section",
+      "top": 5333,
+      "height": 1207,
+      "words": 38,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "What survives",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 0,
+      "textLeft": 22,
+      "textRight": 261,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#catalogue.catalogue",
+      "tag": "section",
+      "top": 6541,
+      "height": 527,
+      "words": 20,
+      "media": 0,
+      "middle": 136,
+      "heading": {
+       "text": "The World That Never Happened",
+       "size": 62,
+       "tag": "span"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about",
+      "tag": "section",
+      "top": 7068,
+      "height": 983,
+      "words": 103,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 8051,
+      "height": 1024,
+      "words": 101,
+      "media": 0,
+      "middle": 46,
+      "heading": {
+       "text": "The archive is still being written.",
+       "size": 45,
+       "tag": "p"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Lost Futures . The Museum of Lost Futures",
+      "size": 36,
+      "top": 0,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 19,
+      "n": 6
+     },
+     {
+      "x": 145,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 7,
+    "bodySize": 23,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.19,
+    0.96,
+    0.96,
+    0.36,
+    0.77,
+    0.3,
+    0.19,
+    0.36,
+    0.77,
+    1
+   ],
+   "motion": {
+    "elements": 24,
+    "css": 0,
+    "transitions": 24,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 7841,
+     "screens": 9.3,
+     "words": 428,
+     "img": 9,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "coastal-ruins-imaginary.jpg",
+      "listening-array.jpg",
+      "funerary-tablet.jpg",
+      "listening-array.jpg",
+      "cliffs-sea.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Lost Futures . The Museum of Lost Futures",
+     "words": 8,
+     "chars": 41,
+     "lines": 2,
+     "size": 58.5,
+     "vw": 15,
+     "font": "Erode",
+     "weight": 500,
+     "tracking": -0.03,
+     "leading": 0.82,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 1,
+     "top": 0,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Lost Futures . The Museum of Lost Futures",
+     "words": 8,
+     "lines": 2,
+     "size": 34,
+     "font": "Erode"
+    },
+    "headings": [
+     {
+      "text": "Lost Futures . The Museum of Lost Futures",
+      "words": 8,
+      "chars": 41,
+      "lines": 2,
+      "size": 58.5,
+      "vw": 15,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.03,
+      "leading": 0.82,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 0,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Now open",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.01,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.43,
+      "top": 3433,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What survives",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.01,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4611,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "211",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 4702,
+      "tag": "dt",
+      "kind": "heading"
+     },
+     {
+      "text": "9",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 4815,
+      "tag": "dt",
+      "kind": "heading"
+     },
+     {
+      "text": "4,181",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 4902,
+      "tag": "dt",
+      "kind": "heading"
+     },
+     {
+      "text": "0",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 4989,
+      "tag": "dt",
+      "kind": "heading"
+     },
+     {
+      "text": "The World That Never Happened",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 31.2,
+      "vw": 8,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.015,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.72,
+      "top": 5543,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "A City That Forgot To Fall",
+      "words": 6,
+      "chars": 26,
+      "lines": 2,
+      "size": 31.2,
+      "vw": 8,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.015,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.72,
+      "top": 5677,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "The Language No One Spoke Again",
+      "words": 6,
+      "chars": 31,
+      "lines": 2,
+      "size": 31.2,
+      "vw": 8,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.015,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.72,
+      "top": 5811,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "The archive is still being written.",
+      "words": 6,
+      "chars": 35,
+      "lines": 2,
+      "size": 42.9,
+      "vw": 11,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.015,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7061,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Museum of Lost Futures",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 132.6,
+      "vw": 34,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 7761,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Erode",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      17,
+      20,
+      24,
+      31,
+      33,
+      43,
+      59,
+      133
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Erode",
+      "size": 20.3,
+      "leading": 1.4,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8.7
+     },
+     "measureChars": 34,
+     "max": {
+      "size": 132.6,
+      "vw": 34,
+      "font": "Erode",
+      "text": "Museum of Lost Futures"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ecebe7",
+       "top": 844,
+       "hsl": {
+        "h": 48,
+        "s": 0.12,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#d6d3ca",
+       "top": 844,
+       "hsl": {
+        "h": 45,
+        "s": 0.13,
+        "l": 0.82
+       }
+      },
+      {
+       "color": "#e1dfd9",
+       "top": 844,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#38450f",
+       "top": 6997,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.61
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.32
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.08
+      }
+     ],
+     "button": {
+      "bg": "#38450f",
+      "hsl": {
+       "h": 74,
+       "s": 0.64,
+       "l": 0.16
+      },
+      "fg": "#ecebe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Enter the first exhibition →"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 24,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "erode"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 7841,
+    "margins": {
+     "left": 15,
+     "right": 8
+    },
+    "sections": [
+     {
+      "sel": "h1.monument",
+      "tag": "h1",
+      "top": 0,
+      "height": 844,
+      "words": 2,
+      "media": 0,
+      "middle": 97,
+      "heading": {
+       "text": "Lost",
+       "size": 59,
+       "tag": "h1"
+      },
+      "left": 14,
+      "right": 14,
+      "textLeft": 14,
+      "textRight": 14,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "div.stage",
+      "tag": "div",
+      "top": 0,
+      "height": 2532,
+      "words": 43,
+      "media": 2,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 84,
+      "textLeft": 20,
+      "textRight": 84,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.intro",
+      "tag": "section",
+      "top": 2532,
+      "height": 837,
+      "words": 69,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 15,
+      "right": 21,
+      "textLeft": 20,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#exhibition.showcase",
+      "tag": "section",
+      "top": 3369,
+      "height": 1090,
+      "words": 44,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Now open",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": 20,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.stats",
+      "tag": "section",
+      "top": 4459,
+      "height": 1004,
+      "words": 38,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "What survives",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 8,
+      "textLeft": 20,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#catalogue.catalogue",
+      "tag": "section",
+      "top": 5463,
+      "height": 521,
+      "words": 20,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The World That Never Happened",
+       "size": 31,
+       "tag": "span"
+      },
+      "left": 20,
+      "right": 95,
+      "textLeft": 20,
+      "textRight": 95,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about",
+      "tag": "section",
+      "top": 5984,
+      "height": 1013,
+      "words": 103,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 6997,
+      "height": 844,
+      "words": 101,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The archive is still being written.",
+       "size": 43,
+       "tag": "p"
+      },
+      "left": 20,
+      "right": 0,
+      "textLeft": 20,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Lost Futures . The Museum of Lost Futures",
+      "size": 34,
+      "top": 0,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 14,
+      "n": 6
+     },
+     {
+      "x": 81,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 7,
+    "bodySize": 20,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 20px on the left, 36px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  },
+  {
+   "level": "WARN",
+   "id": "pinned-over-picture",
+   "width": 1440,
+   "message": "Pinned large text slides across pictures while the page scrolls: \"Futures\" (screen 3, 94% over a picture); \"Lost\" (screen 3, 95% over a picture)",
+   "fix": "Jurors read a pinned title crossing drawings or photographs as a collision. Keep the pictures in the column the title does not occupy, or unpin it.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "long-pin",
+   "width": 1440,
+   "message": "The same large text stays on screen for 4 screens in a row: \"Lost Futures . The Museum of Lost Futures\"",
+   "fix": "A pinned element earns two screens, and something must change at each. Shorten the run or give every screen its own content."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect-motion-index\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect-motion-index\\desktop-page-01.jpg",
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect-motion-index\\desktop-page-02.jpg",
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect-motion-index\\desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect-motion-index\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect-motion-index\\tablet-page-01.jpg",
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect-motion-index\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect-motion-index\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect-motion-index\\mobile-page-01.jpg",
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect-motion-index\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

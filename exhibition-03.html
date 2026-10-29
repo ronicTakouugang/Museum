@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Language No One Spoke Again | The Museum of Lost Futures</title>
+<meta name="description" content="Exhibition three: Ilvarn, a language that could only be spoken between two people, and went silent when only one was left.">
+<link rel="preconnect" href="https://api.fontshare.com">
+<link rel="preconnect" href="https://cdn.fontshare.com" crossorigin>
+<link href="https://api.fontshare.com/v2/css?f[]=erode@400,401,500,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+<script>document.documentElement.classList.add('js')</script>
+<script src="assets/js/transitions.js"></script>
+</head>
+<body>
+
+<div class="sr-only"><a href="#main">Skip to content</a></div>
+
+<nav class="site-links small" aria-label="Site">
+  <a class="link" href="index.html">Museum</a>
+  <a class="link" href="index.html#catalogue">Exhibitions</a>
+  <a class="link" href="#scribe">Write in Ilvarn</a>
+</nav>
+
+<main id="main">
+
+  <header class="ex-hero">
+    <div class="plate plate--close opening-plate" style="--x: -18%; --y: -30%;">
+      <img class="cover" src="assets/img/lang-stamped-disc.jpg" width="1920" height="1430" alt="A round clay disc stamped in a spiral with small pictorial signs, displayed on a brass stand." loading="eager">
+    </div>
+    <div class="ex-hero__content">
+      <h1 class="ex-hero__title lines" style="view-transition-name: ex-title-3"><span class="line"><span data-line style="--i: 0">The Language No</span></span><span class="line"><span data-line style="--i: 1">One Spoke Again</span></span></h1>
+      <p class="ex-hero__lead lead" data-rise style="--i: 3">The third exhibition. Ilvarn could only be spoken to someone. When one speaker was left, it fell silent with her still alive.</p>
+      <p class="ex-hero__scroll" data-rise style="--i: 4"><a class="button button--inverse" href="#chapter-1">Begin the exhibition ↓</a></p>
+    </div>
+  </header>
+
+  <section class="chapter" id="chapter-1">
+    <div class="wrap grid">
+      <div class="chapter__title-col">
+        <h2 class="chapter__title">The Sennet valley</h2>
+      </div>
+      <div class="chapter__body-col">
+        <div class="chapter__block" data-reveal>
+          <p>Ilvarn was spoken along one river, by perhaps six thousand people at its height, in villages a day's walk apart. It was never a language of empire. It travelled by marriage and by trade in salt, and it stamped its words into clay discs that were passed hand to hand like letters.</p>
+        </div>
+        <figure class="chapter__block" data-reveal>
+          <div class="chapter__figure plate plate--close" style="--x: -42%; --y: -48%;">
+            <img class="cover" src="assets/img/lang-stamped-disc.jpg" width="1920" height="1430" alt="Detail of a clay disc: rows of stamped signs, a rosette, a head with a plumed crest, a fish." loading="lazy">
+          </div>
+          <figcaption class="chapter__caption">A stamped disc of the kind Ilvarn letters were written on. Each sign was pressed with a carved die, so no two hands differed.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="chapter" id="chapter-2">
+    <div class="wrap grid">
+      <div class="chapter__title-col">
+        <h2 class="chapter__title">A grammar for two</h2>
+      </div>
+      <div class="chapter__body-col">
+        <div class="chapter__block" data-reveal>
+          <p>Ilvarn had no word for I. Every verb was built around a pair: the one who spoke and the one who was spoken to, joined in a single ending. To say that it was raining, you said that it was raining on the two of you. A sentence with no listener in it was not wrong. It was simply not a sentence.</p>
+        </div>
+        <figure class="chapter__block" data-reveal>
+          <div class="chapter__figure chapter__figure--tall plate">
+            <img class="cover" src="assets/img/lang-clay-tablet.jpg" width="1920" height="2561" alt="A small clay tablet incised with rows of linear signs and short strokes." loading="lazy">
+          </div>
+          <figcaption class="chapter__caption">A ledger tablet. Even Ilvarn accounts name two parties on every line: the one who owes, and the one who is owed.</figcaption>
+        </figure>
+        <div class="chapter__block" data-reveal>
+          <p>Children learned it in pairs. Grief was spoken as the loss of an ending: after a death, the survivor's verbs had nowhere to land, and the valley had a word for that too, which meant roughly a sentence left open.</p>
+        </div>
+      </div>
+    </div>
+    <div class="wrap grid">
+      <table class="dialogue" data-reveal>
+        <caption>Struck through, what a speaker of English can say alone. Beside it, the same thing as Ilvarn required it: with someone to hear it.</caption>
+        <thead>
+          <tr><th scope="col">Said alone</th><th scope="col">Said in Ilvarn</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>It is raining.</td><td>It is raining on the two of us.</td></tr>
+          <tr><td>I am tired.</td><td>The day has been long between us.</td></tr>
+          <tr><td>I remember.</td><td>You and I are keeping this.</td></tr>
+          <tr><td>Goodbye.</td><td>Hold the other end of this.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="instrument" id="scribe">
+    <div class="wrap grid">
+      <div class="instrument__intro" data-reveal>
+        <h2 class="section-heading">Write in Ilvarn</h2>
+        <p>Give the scribe a word. It is stamped in the reconstructed signs, and set in the paired form a speaker would have needed, with a listener in it.</p>
+      </div>
+      <div class="instrument__body" data-reveal style="--i: 1">
+        <form class="scribe__form" id="scribe-form" autocomplete="off">
+          <label class="instrument__label" for="scribe-input">A word to stamp</label>
+          <div class="scribe__row">
+            <input class="field" id="scribe-input" name="word" type="text" maxlength="14" value="river" required>
+            <button class="button" type="submit">Stamp it</button>
+          </div>
+        </form>
+        <div class="scribe__result" id="scribe-result" aria-live="polite">
+          <div class="scribe__stamps" id="scribe-stamps" role="img" aria-label="The word river stamped in reconstructed Ilvarn signs"></div>
+          <dl class="scribe__forms">
+            <div><dt>Alone</dt><dd id="scribe-alone">velosa</dd></div>
+            <div><dt>Said to someone</dt><dd id="scribe-paired">velosa-tenu</dd></div>
+          </dl>
+          <p class="scribe__note small" id="scribe-note">The paired ending -tenu means the two of us, by the water.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="chapter chapter--mirror" id="chapter-3">
+    <div class="wrap grid">
+      <div class="chapter__title-col">
+        <h2 class="chapter__title">The last pair</h2>
+      </div>
+      <div class="chapter__body-col">
+        <div class="chapter__block" data-reveal>
+          <p>By the last century of the record, Ilvarn was spoken in one house, by two sisters, Aniel and Mereth Osk. Visitors described them talking for hours at the window. When Aniel died, Mereth lived another nineteen years. She understood every word of Ilvarn and could not say any of it, because there was no one left to say it to.</p>
+        </div>
+        <figure class="chapter__block" data-reveal>
+          <div class="chapter__figure plate">
+            <img class="cover" src="assets/img/lang-carved-wood.jpg" width="1920" height="1273" alt="A dark wooden board carved with rows of small glyphs." loading="lazy">
+          </div>
+          <figcaption class="chapter__caption">A carved board of the kind Mereth is said to have made in those years: Ilvarn written down, since it could no longer be said.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="chapter" id="chapter-4">
+    <div class="wrap grid">
+      <div class="chapter__title-col">
+        <h2 class="chapter__title">What remains</h2>
+      </div>
+      <div class="chapter__body-col">
+        <div class="chapter__block" data-reveal>
+          <p>The museum holds 1,140 stamped words, most of them half of a pair. Linguists can read them; nobody has ever said one aloud in the way it was meant, because saying it properly would take two people who both grew up inside it. The record is complete. The conversation is not.</p>
+        </div>
+        <div class="chapter__pair" data-reveal>
+          <figure>
+            <div class="chapter__figure chapter__figure--square plate plate--object">
+              <img class="cover" src="assets/img/lang-letter-tablet.jpg" width="4000" height="4000" alt="A small square clay tablet covered edge to edge in wedge-shaped writing." loading="lazy">
+            </div>
+            <figcaption class="chapter__caption">A letter, its sender's half.</figcaption>
+          </figure>
+          <figure>
+            <div class="chapter__figure chapter__figure--square plate plate--object">
+              <img class="cover" src="assets/img/lang-incantation-tablet.jpg" width="4000" height="3751" alt="A broken clay tablet with dense lines of wedge-shaped writing." loading="lazy">
+            </div>
+            <figcaption class="chapter__caption">A reply, broken where the names were.</figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="ex-close">
+    <div class="wrap">
+      <p class="ex-close__statement" data-reveal>Every word survived.<br>The other half of the sentence did not.</p>
+      <div class="ex-close__links" data-reveal>
+        <a class="button button--inverse" href="exhibition-01.html">Back to the first exhibition</a>
+        <a class="link" href="index.html">Return to the museum</a>
+      </div>
+      <p class="ex-close__credits" data-reveal>Pictures: <a href="https://commons.wikimedia.org/wiki/File:%CE%94%CE%AF%CF%83%CE%BA%CE%BF%CF%82_%CF%84%CE%B7%CF%82_%CE%A6%CE%B1%CE%B9%CF%83%CF%84%CE%BF%CF%8D_%CF%80%CE%BB%CE%B5%CF%85%CF%81%CE%AC_%CE%91_6380.JPG">Phaistos disc, side A</a> by C messier, CC BY-SA 4.0; <a href="https://commons.wikimedia.org/wiki/File:Linear_A_tablet_from_Zakros,_AM_Sitia,_258622.jpg">"Linear A tablet from Zakros"</a> by Zde, CC BY-SA 4.0; <a href="https://commons.wikimedia.org/wiki/File:Rongorongo_Schrift.jpg">"Rongorongo Schrift"</a> by msdstefan, CC BY-SA 3.0; all via Wikimedia Commons. <a href="https://www.metmuseum.org/art/collection/search/325849">"Cuneiform tablet: private letter"</a> and <a href="https://www.metmuseum.org/art/collection/search/321719">"Cuneiform tablet: Gula incantation"</a>, CC0, the Metropolitan Museum of Art.</p>
+    </div>
+  </section>
+
+</main>
+
+<script src="assets/js/base.js" defer></script>
+<script src="assets/js/detail.js" defer></script>
+<script src="assets/js/scribe.js" defer></script>
+</body>
+</html>

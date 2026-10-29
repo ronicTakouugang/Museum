@@ -10,12 +10,13 @@
 <link href="https://api.fontshare.com/v2/css?f[]=erode@400,401,500,600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/style.css">
 <script>document.documentElement.classList.add('js')</script>
+<script src="assets/js/transitions.js"></script>
 </head>
 <body>
 
 <div class="sr-only"><a href="#main">Skip to content</a></div>
 
-<nav class="site-links small" aria-label="Site">
+<nav class="site-links site-links--home small" aria-label="Site">
   <a class="link" href="#catalogue">Exhibitions</a>
   <a class="link" href="#about">About</a>
   <a class="link" href="exhibition-01.html">Enter</a>
@@ -50,7 +51,7 @@
 
       <div class="story">
         <div class="story__panel">
-          <div class="plate"><img class="cover" src="assets/img/coastal-ruins-imaginary.jpg" width="3871" height="2412" alt="A pen-and-ink drawing of an invented coastline crowded with towers, domes and ruined colonnades." loading="lazy"></div>
+          <div class="plate plate--trim"><img class="cover" src="assets/img/coastal-ruins-imaginary.jpg" width="3871" height="2412" alt="A pen-and-ink drawing of an invented coastline crowded with towers, domes and ruined colonnades." loading="lazy"></div>
           <p class="story__caption small">Every world here was reconstructed. None of it was recorded.</p>
         </div>
         <div class="story__panel">
@@ -67,7 +68,7 @@
         <p>Every object in this archive was made, not found. The museum exists to hold worlds that history almost produced: systems that nearly worked, civilizations that nearly lasted, machines that nearly remembered everything and instead forgot it all at once. We do not call this fiction. We call it an incomplete record of the probable.</p>
       </div>
       <div class="intro__media">
-        <div class="intro__photo plate shutter" data-reveal>
+        <div class="intro__photo plate plate--object shutter" data-reveal>
           <img class="cover" src="assets/img/funerary-tablet.jpg" width="1756" height="3008" alt="A fragment of painted terracotta, cracked and partially missing, showing a figure in dark glaze.">
         </div>
         <p class="intro__note" data-reveal>Fragment 212–A. Recovered condition: partial. Catalogued without certainty of origin.</p>
@@ -80,22 +81,21 @@
       <h2 class="showcase__heading section-heading" data-reveal>Now open</h2>
     </div>
     <div class="band">
-      <a class="band__panel band__panel--wide" href="exhibition-01.html" aria-label="Enter The World That Never Happened" data-reveal style="--i: 0">
-        <div class="plate"><img class="cover" src="assets/img/listening-array.jpg" width="1920" height="1440" alt="The listening array, tilted skyward." loading="lazy"></div>
+      <a class="band__panel" href="exhibition-01.html" data-reveal style="--i: 0">
+        <div class="plate"><img class="cover" src="assets/img/control-panel.jpg" width="1920" height="1280" alt="A weathered control panel with rows of labelled switches." loading="lazy"></div>
         <p class="band__title title-of-work">The World That Never Happened</p>
       </a>
-      <div class="band__panel" data-reveal style="--i: 1">
-        <div class="plate"><img class="cover" src="assets/img/control-panel.jpg" width="1920" height="1280" alt="A weathered control panel with rows of labelled switches." loading="lazy"></div>
-      </div>
-      <div class="band__panel" data-reveal style="--i: 2">
-        <div class="plate"><img class="cover" src="assets/img/coastal-ruins-imaginary.jpg" width="3871" height="2412" alt="An imagined coastline of towers and ruins." loading="lazy"></div>
-      </div>
-      <div class="band__panel" data-reveal style="--i: 3">
-        <div class="plate"><img class="cover" src="assets/img/archive-vault.jpg" width="1920" height="1283" alt="A concrete archive hall." loading="lazy"></div>
-      </div>
+      <a class="band__panel" href="exhibition-02.html" data-reveal style="--i: 1">
+        <div class="plate plate--trim"><img class="cover" src="assets/img/city-vaults-etching.jpg" width="1920" height="1429" alt="Etched vaults, stairways and chains receding into shadow." loading="lazy"></div>
+        <p class="band__title title-of-work">A City That Forgot To Fall</p>
+      </a>
+      <a class="band__panel" href="exhibition-03.html" data-reveal style="--i: 2">
+        <div class="plate"><img class="cover" src="assets/img/lang-carved-wood.jpg" width="1920" height="1273" alt="A dark wooden board carved with rows of small glyphs." loading="lazy"></div>
+        <p class="band__title title-of-work">The Language No One Spoke Again</p>
+      </a>
     </div>
     <div class="wrap">
-      <p class="showcase__caption">Thiraval, a federation of nine coastal cities, built a machine to keep what grief could not. The Keeping listened for two hundred and eleven years.</p>
+      <p class="showcase__caption">Three worlds are open. In the first, Thiraval, a federation of nine coastal cities, built a machine to keep what grief could not. The Keeping listened for two hundred and eleven years, and it still answers.</p>
 
       <div class="oracle" data-reveal>
         <p class="oracle__intro">Offer the Keeping a word. It will tell you what it kept.</p>
@@ -144,14 +144,14 @@
         <span class="catalogue__name">The World That Never Happened</span>
         <span class="catalogue__status small">Open</span>
       </a>
-      <div class="catalogue__item catalogue__item--sealed" data-reveal style="--i: 1">
+      <a class="catalogue__item" href="exhibition-02.html" data-reveal style="--i: 1">
         <span class="catalogue__name">A City That Forgot To Fall</span>
-        <span class="catalogue__status small">Sealed</span>
-      </div>
-      <div class="catalogue__item catalogue__item--sealed" data-reveal style="--i: 2">
+        <span class="catalogue__status small">Open</span>
+      </a>
+      <a class="catalogue__item" href="exhibition-03.html" data-reveal style="--i: 2">
         <span class="catalogue__name">The Language No One Spoke Again</span>
-        <span class="catalogue__status small">Sealed</span>
-      </div>
+        <span class="catalogue__status small">Open</span>
+      </a>
     </div>
   </section>
 
@@ -161,7 +161,7 @@
         <dl class="about__facts" data-reveal>
           <div class="about__fact"><dt>Founded</dt><dd>No fixed date</dd></div>
           <div class="about__fact"><dt>Access</dt><dd>Permanent, digital</dd></div>
-          <div class="about__fact"><dt>Holdings</dt><dd>3 exhibitions, 1 open</dd></div>
+          <div class="about__fact"><dt>Holdings</dt><dd>3 exhibitions, all open</dd></div>
         </dl>
         <p class="about__lead" data-reveal>The museum does not claim these worlds existed. It claims only that they were close enough to exist: assembled from the fragment, the ruin, the misremembered account, and the thing that was almost built. Reconstruction, here, is a form of honesty: every gap is marked, every guess is dated, and nothing is restored past the point where evidence ends.</p>
       </div>
@@ -198,7 +198,7 @@
     </div>
   </div>
   <div class="footer__credits" id="credits">
-    <p class="credits">Pictures: <a href="https://commons.wikimedia.org/wiki/File:The_Hideout_(161380533).jpeg">"The Hideout"</a> by Andrew Mcmillan, CC BY 3.0; <a href="https://commons.wikimedia.org/wiki/File:Parkes_Radio_Telescope_(CSIRO).jpg">"Parkes Radio Telescope (CSIRO)"</a> by Amanda Slater, CC BY-SA 2.0; <a href="https://www.metmuseum.org/art/collection/search/338344">"Imaginary Coastal Landscape with Ruins"</a> by Domenico Campagnola, CC0, the Met; <a href="https://www.artic.edu/artworks/153993">"Cliffs on the Sea Coast"</a> by Gustave Courbet, CC0, the Art Institute of Chicago; <a href="https://commons.wikimedia.org/wiki/File:Attic_black-figure_funerary_pinax_(Berlin_Antikensammlung_F_1826).jpg">"Attic funerary pinax"</a>, public domain; <a href="https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_ehem._Sondermunitionslager_Visbeck,_Beobachtungsturm_der_US_Army_--_2022_--_4450.jpg">control panel</a> by Dietmar Rabich, CC BY-SA 4.0. All via Wikimedia Commons unless noted.</p>
+    <p class="credits">Pictures: <a href="https://commons.wikimedia.org/wiki/File:The_Hideout_(161380533).jpeg">"The Hideout"</a> by Andrew Mcmillan, CC BY 3.0; <a href="https://commons.wikimedia.org/wiki/File:Parkes_Radio_Telescope_(CSIRO).jpg">"Parkes Radio Telescope (CSIRO)"</a> by Amanda Slater, CC BY-SA 2.0; <a href="https://www.metmuseum.org/art/collection/search/338344">"Imaginary Coastal Landscape with Ruins"</a> by Domenico Campagnola, CC0, the Met; <a href="https://www.artic.edu/artworks/153993">"Cliffs on the Sea Coast"</a> by Gustave Courbet, CC0, the Art Institute of Chicago; <a href="https://commons.wikimedia.org/wiki/File:Attic_black-figure_funerary_pinax_(Berlin_Antikensammlung_F_1826).jpg">"Attic funerary pinax"</a>, public domain; <a href="https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_ehem._Sondermunitionslager_Visbeck,_Beobachtungsturm_der_US_Army_--_2022_--_4450.jpg">control panel</a> by Dietmar Rabich, CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Piranesi-Carceri-16Pfeiler_mit_Ketten.jpg">"Carceri XVI"</a> by Giovanni Battista Piranesi, CC0; <a href="https://commons.wikimedia.org/wiki/File:Rongorongo_Schrift.jpg">"Rongorongo Schrift"</a> by msdstefan, CC BY-SA 3.0. All via Wikimedia Commons unless noted; each exhibition credits its own pictures at its foot.</p>
     <p>A fictional institution.</p>
   </div>
   <p class="footer__wordmark" aria-hidden="true">Museum of Lost Futures</p>
