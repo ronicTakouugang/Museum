@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Museum of Lost Futures</title>
+<meta name="description" content="An archive of civilizations, machines and tomorrows that never existed. First exhibition: The World That Never Happened.">
+<link rel="preconnect" href="https://api.fontshare.com">
+<link rel="preconnect" href="https://cdn.fontshare.com" crossorigin>
+<link href="https://api.fontshare.com/v2/css?f[]=erode@400,401,500,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+<script>document.documentElement.classList.add('js')</script>
+</head>
+<body>
+
+<div class="sr-only"><a href="#main">Skip to content</a></div>
+
+<nav class="site-links small" aria-label="Site">
+  <a class="link" href="#catalogue">Exhibitions</a>
+  <a class="link" href="#about">About</a>
+  <a class="link" href="exhibition-01.html">Enter</a>
+</nav>
+
+<main id="main">
+
+  <div class="monument-wrap">
+    <h1 class="monument">
+      <span class="monument__word monument__word--a">Lost</span>
+      <span class="monument__word monument__word--b">Futures</span>
+      <span class="sr-only">. The Museum of Lost Futures</span>
+    </h1>
+
+    <div class="stage">
+      <div class="hero">
+        <div class="hero__panel">
+          <div class="hero__lead" data-reveal>
+            <p>The Museum of Lost Futures keeps the civilizations that almost were.</p>
+          </div>
+          <div class="hero__actions" data-reveal>
+            <a class="button" href="exhibition-01.html">Enter the first exhibition →</a>
+            <a class="link small" href="#catalogue">See what else is catalogued</a>
+          </div>
+        </div>
+        <div class="hero__photo">
+          <div class="plate opening-plate">
+            <img class="cover" src="assets/img/archive-vault.jpg" width="1920" height="1283" alt="A quiet, concrete archive hall holding a glass case of ceramics, overlooking trees through a wide curved window.">
+          </div>
+        </div>
+      </div>
+
+      <div class="story">
+        <div class="story__panel">
+          <div class="plate"><img class="cover" src="assets/img/coastal-ruins-imaginary.jpg" width="3871" height="2412" alt="A pen-and-ink drawing of an invented coastline crowded with towers, domes and ruined colonnades." loading="lazy"></div>
+          <p class="story__caption small">Every world here was reconstructed. None of it was recorded.</p>
+        </div>
+        <div class="story__panel">
+          <div class="plate"><img class="cover" src="assets/img/listening-array.jpg" width="1920" height="1440" alt="A large dish-shaped listening array tilted toward the sky." loading="lazy"></div>
+          <p class="story__caption small">Something was always listening. We are still deciding what it heard.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <section class="intro">
+    <div class="wrap grid">
+      <div class="intro__text" data-reveal>
+        <p>Every object in this archive was made, not found. The museum exists to hold worlds that history almost produced: systems that nearly worked, civilizations that nearly lasted, machines that nearly remembered everything and instead forgot it all at once. We do not call this fiction. We call it an incomplete record of the probable.</p>
+      </div>
+      <div class="intro__media">
+        <div class="intro__photo plate shutter" data-reveal>
+          <img class="cover" src="assets/img/funerary-tablet.jpg" width="1756" height="3008" alt="A fragment of painted terracotta, cracked and partially missing, showing a figure in dark glaze.">
+        </div>
+        <p class="intro__note" data-reveal>Fragment 212–A. Recovered condition: partial. Catalogued without certainty of origin.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="showcase" id="exhibition">
+    <div class="wrap grid">
+      <h2 class="showcase__heading section-heading" data-reveal>Now open</h2>
+    </div>
+    <div class="band">
+      <a class="band__panel band__panel--wide" href="exhibition-01.html" aria-label="Enter The World That Never Happened" data-reveal style="--i: 0">
+        <div class="plate"><img class="cover" src="assets/img/listening-array.jpg" width="1920" height="1440" alt="The listening array, tilted skyward." loading="lazy"></div>
+        <p class="band__title title-of-work">The World That Never Happened</p>
+      </a>
+      <div class="band__panel" data-reveal style="--i: 1">
+        <div class="plate"><img class="cover" src="assets/img/control-panel.jpg" width="1920" height="1280" alt="A weathered control panel with rows of labelled switches." loading="lazy"></div>
+      </div>
+      <div class="band__panel" data-reveal style="--i: 2">
+        <div class="plate"><img class="cover" src="assets/img/coastal-ruins-imaginary.jpg" width="3871" height="2412" alt="An imagined coastline of towers and ruins." loading="lazy"></div>
+      </div>
+      <div class="band__panel" data-reveal style="--i: 3">
+        <div class="plate"><img class="cover" src="assets/img/archive-vault.jpg" width="1920" height="1283" alt="A concrete archive hall." loading="lazy"></div>
+      </div>
+    </div>
+    <div class="wrap">
+      <p class="showcase__caption">Thiraval, a federation of nine coastal cities, built a machine to keep what grief could not. The Keeping listened for two hundred and eleven years.</p>
+
+      <div class="oracle" data-reveal>
+        <p class="oracle__intro">Offer the Keeping a word. It will tell you what it kept.</p>
+        <form id="oracle-form" autocomplete="off">
+          <label class="sr-only" for="oracle-input">A word for the Keeping</label>
+          <input class="field" id="oracle-input" name="word" type="text" maxlength="40" placeholder="bread, mother, rain, forgive …" required>
+          <button class="button" type="submit">Ask</button>
+        </form>
+        <div class="oracle__result" id="oracle-result" hidden>
+          <div class="oracle__meta nums">
+            <span id="oracle-cat">Fragment …</span>
+            <span id="oracle-cond">Condition …</span>
+          </div>
+          <p class="oracle__fragment" id="oracle-text"></p>
+        </div>
+        <noscript>
+          <div class="oracle__result">
+            <div class="oracle__meta"><span>Fragment 118–C</span><span>Condition: partial</span></div>
+            <p class="oracle__fragment">"…kept the sound of the door, not the voice that came through it."</p>
+          </div>
+        </noscript>
+      </div>
+    </div>
+  </section>
+
+  <section class="stats">
+    <div class="wrap grid">
+      <div class="stats__col">
+        <h2 class="stats__heading section-heading" data-reveal>What survives</h2>
+        <dl>
+          <div class="stats__row" data-reveal style="--i: 0"><dt class="stats__figure nums">211</dt><dd class="stats__sentence">years passed between the founding of Thiraval and the Unbinding.</dd></div>
+          <div class="stats__row" data-reveal style="--i: 1"><dt class="stats__figure nums">9</dt><dd class="stats__sentence">coastal cities federated under a single Keeping.</dd></div>
+          <div class="stats__row" data-reveal style="--i: 2"><dt class="stats__figure nums">4,181</dt><dd class="stats__sentence">memory shells recovered; most are still unreadable.</dd></div>
+          <div class="stats__row" data-reveal style="--i: 3"><dt class="stats__figure nums">0</dt><dd class="stats__sentence">confirmed dates for when the Unbinding actually began.</dd></div>
+        </dl>
+      </div>
+      <div class="stats__media plate shutter" data-reveal>
+        <img class="cover" src="assets/img/cliffs-sea.jpg" width="1920" height="1139" alt="A painted coastline under a pale, overcast sky.">
+      </div>
+    </div>
+  </section>
+
+  <section class="catalogue" id="catalogue">
+    <div class="wrap">
+      <a class="catalogue__item" href="exhibition-01.html" data-reveal style="--i: 0">
+        <span class="catalogue__name">The World That Never Happened</span>
+        <span class="catalogue__status small">Open</span>
+      </a>
+      <div class="catalogue__item catalogue__item--sealed" data-reveal style="--i: 1">
+        <span class="catalogue__name">A City That Forgot To Fall</span>
+        <span class="catalogue__status small">Sealed</span>
+      </div>
+      <div class="catalogue__item catalogue__item--sealed" data-reveal style="--i: 2">
+        <span class="catalogue__name">The Language No One Spoke Again</span>
+        <span class="catalogue__status small">Sealed</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="wrap">
+      <div class="about__row">
+        <dl class="about__facts" data-reveal>
+          <div class="about__fact"><dt>Founded</dt><dd>No fixed date</dd></div>
+          <div class="about__fact"><dt>Access</dt><dd>Permanent, digital</dd></div>
+          <div class="about__fact"><dt>Holdings</dt><dd>3 exhibitions, 1 open</dd></div>
+        </dl>
+        <p class="about__lead" data-reveal>The museum does not claim these worlds existed. It claims only that they were close enough to exist: assembled from the fragment, the ruin, the misremembered account, and the thing that was almost built. Reconstruction, here, is a form of honesty: every gap is marked, every guess is dated, and nothing is restored past the point where evidence ends.</p>
+      </div>
+      <div class="about__row">
+        <span class="about__word">Method</span>
+        <div class="about__methods" data-reveal>
+          <div class="about__method"><span>Fragment theory</span><span>undated</span></div>
+          <div class="about__method"><span>Ruin survey</span><span>undated</span></div>
+          <div class="about__method"><span>Dream testimony</span><span>contested</span></div>
+          <div class="about__method"><span>Inferred correspondence</span><span>undated</span></div>
+          <div class="about__method"><span>Structural echo</span><span>undated</span></div>
+          <div class="about__method"><span>Material residue</span><span>undated</span></div>
+          <div class="about__method"><span>Collapsed chronology</span><span>undated</span></div>
+          <div class="about__method"><span>Absence mapping</span><span>undated</span></div>
+          <div class="about__method"><span>Negative record</span><span>undated</span></div>
+          <div class="about__method"><span>Witness by proxy</span><span>contested</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer__top">
+    <p class="footer__invite" data-reveal>The archive is still being written.</p>
+    <div style="grid-column: 1 / 8; margin-top: 2rem;" data-reveal>
+      <a class="button button--ghost" href="exhibition-01.html" style="border-color: var(--field-1-ink); color: var(--field-1-ink);">Enter the first exhibition</a>
+    </div>
+    <div class="footer__links small" data-reveal>
+      <a class="link" href="#catalogue">Exhibitions</a>
+      <a class="link" href="#about">About the archive</a>
+      <a class="link" href="#credits">Credits</a>
+    </div>
+  </div>
+  <div class="footer__credits" id="credits">
+    <p class="credits">Pictures: <a href="https://commons.wikimedia.org/wiki/File:The_Hideout_(161380533).jpeg">"The Hideout"</a> by Andrew Mcmillan, CC BY 3.0; <a href="https://commons.wikimedia.org/wiki/File:Parkes_Radio_Telescope_(CSIRO).jpg">"Parkes Radio Telescope (CSIRO)"</a> by Amanda Slater, CC BY-SA 2.0; <a href="https://www.metmuseum.org/art/collection/search/338344">"Imaginary Coastal Landscape with Ruins"</a> by Domenico Campagnola, CC0, the Met; <a href="https://www.artic.edu/artworks/153993">"Cliffs on the Sea Coast"</a> by Gustave Courbet, CC0, the Art Institute of Chicago; <a href="https://commons.wikimedia.org/wiki/File:Attic_black-figure_funerary_pinax_(Berlin_Antikensammlung_F_1826).jpg">"Attic funerary pinax"</a>, public domain; <a href="https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_ehem._Sondermunitionslager_Visbeck,_Beobachtungsturm_der_US_Army_--_2022_--_4450.jpg">control panel</a> by Dietmar Rabich, CC BY-SA 4.0. All via Wikimedia Commons unless noted.</p>
+    <p>A fictional institution.</p>
+  </div>
+  <p class="footer__wordmark" aria-hidden="true">Museum of Lost Futures</p>
+</footer>
+
+<script src="assets/js/base.js" defer></script>
+<script src="assets/js/main.js" defer></script>
+</body>
+</html>

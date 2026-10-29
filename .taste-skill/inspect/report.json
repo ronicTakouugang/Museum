@@ -1,0 +1,1786 @@
+{
+ "url": "exhibition-01.html",
+ "at": "2026-10-28T15:02:56.627Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.5,
+    0.32,
+    0.26,
+    0.34,
+    0.28,
+    0.35,
+    0.29,
+    0.69
+   ],
+   "motion": {
+    "elements": 12,
+    "css": 0,
+    "transitions": 12,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 7138,
+     "screens": 7.9,
+     "words": 375,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "coastal-ruins-imaginary.jpg",
+      "cliffs-sea.jpg",
+      "listening-array.jpg",
+      "control-panel.jpg",
+      "tulum-ruin.jpg",
+      "funerary-tablet.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The World That Never Happened",
+     "words": 5,
+     "chars": 29,
+     "lines": 2,
+     "size": 100,
+     "vw": 6.9,
+     "font": "Erode",
+     "weight": 500,
+     "tracking": -0.02,
+     "leading": 0.96,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.95,
+     "top": 454,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The World That Never Happened",
+     "words": 5,
+     "lines": 2,
+     "size": 100,
+     "font": "Erode"
+    },
+    "headings": [
+     {
+      "text": "The World That Never Happened",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 100,
+      "vw": 6.9,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 454,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Thiraval",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 1073,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Keeping",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 2226,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Unbinding",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 4305,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What remains",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 5642,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Long Archive continues. Still being catalogued.",
+      "words": 7,
+      "chars": 51,
+      "lines": 2,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 6794,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 6,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Erode",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      19,
+      26,
+      36,
+      64,
+      100
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Erode",
+      "size": 19,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 5
+     },
+     "measureChars": 51,
+     "max": {
+      "size": 100,
+      "vw": 6.9,
+      "font": "Erode",
+      "text": "The World ThatNever Happened"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#d6d3ca",
+       "top": 0,
+       "hsl": {
+        "h": 45,
+        "s": 0.13,
+        "l": 0.82
+       }
+      },
+      {
+       "color": "#e1dfd9",
+       "top": 0,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#ecebe7",
+       "top": 900,
+       "hsl": {
+        "h": 48,
+        "s": 0.12,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#38450f",
+       "top": 6632,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.68
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.2
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.12
+      }
+     ],
+     "button": {
+      "bg": "#38450f",
+      "hsl": {
+       "h": 74,
+       "s": 0.64,
+       "l": 0.16
+      },
+      "fg": "#ecebe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Begin the exhibition ↓"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": true,
+     "height": 50,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "erode"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 7138,
+    "margins": {
+     "left": 36,
+     "right": 36
+    },
+    "sections": [
+     {
+      "sel": "header.ex-hero",
+      "tag": "header",
+      "top": 0,
+      "height": 900,
+      "words": 28,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The World That",
+       "size": 100,
+       "tag": "h1"
+      },
+      "left": 36,
+      "right": 742,
+      "textLeft": 36,
+      "textRight": 742,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-1.chapter",
+      "tag": "section",
+      "top": 900,
+      "height": 1153,
+      "words": 54,
+      "media": 1,
+      "middle": 487,
+      "heading": {
+       "text": "Thiraval",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 36,
+      "right": 36,
+      "textLeft": 36,
+      "textRight": 88,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-2.chapter",
+      "tag": "section",
+      "top": 2053,
+      "height": 2079,
+      "words": 114,
+      "media": 2,
+      "middle": 376,
+      "heading": {
+       "text": "The Keeping",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 36,
+      "right": 36,
+      "textLeft": 36,
+      "textRight": 37,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-3.chapter",
+      "tag": "section",
+      "top": 4132,
+      "height": 1337,
+      "words": 99,
+      "media": 1,
+      "middle": 311,
+      "heading": {
+       "text": "The Unbinding",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 36,
+      "right": 36,
+      "textLeft": 36,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-4.chapter",
+      "tag": "section",
+      "top": 5469,
+      "height": 1163,
+      "words": 61,
+      "media": 1,
+      "middle": 329,
+      "heading": {
+       "text": "What remains",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 36,
+      "right": 36,
+      "textLeft": 36,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.ex-close",
+      "tag": "section",
+      "top": 6632,
+      "height": 506,
+      "words": 16,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The Long Archive continues.",
+       "size": 36,
+       "tag": "p"
+      },
+      "left": 36,
+      "right": 969,
+      "textLeft": 36,
+      "textRight": 969,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 1880,
+      "height": 344
+     },
+     {
+      "top": 3960,
+      "height": 344
+     },
+     {
+      "top": 5300,
+      "height": 340
+     },
+     {
+      "top": 6460,
+      "height": 336
+     }
+    ],
+    "h1s": [
+     {
+      "text": "The World That Never Happened",
+      "size": 100,
+      "top": 454,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 36,
+      "n": 7
+     },
+     {
+      "x": 734,
+      "n": 5
+     }
+    ],
+    "leftBlocks": 12,
+    "bodySize": 26,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.73,
+    0.63,
+    0.66,
+    0.6,
+    0.75,
+    0.65,
+    0.9
+   ],
+   "motion": {
+    "elements": 12,
+    "css": 0,
+    "transitions": 12,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 6817,
+     "screens": 6.7,
+     "words": 375,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "coastal-ruins-imaginary.jpg",
+      "cliffs-sea.jpg",
+      "listening-array.jpg",
+      "control-panel.jpg",
+      "tulum-ruin.jpg",
+      "funerary-tablet.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The World That Never Happened",
+     "words": 5,
+     "chars": 29,
+     "lines": 2,
+     "size": 72.8,
+     "vw": 9.5,
+     "font": "Erode",
+     "weight": 500,
+     "tracking": -0.02,
+     "leading": 0.96,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.94,
+     "top": 656,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The World That Never Happened",
+     "words": 5,
+     "lines": 2,
+     "size": 72.8,
+     "font": "Erode"
+    },
+    "headings": [
+     {
+      "text": "The World That Never Happened",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 72.8,
+      "vw": 9.5,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 656,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Thiraval",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 1116,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Keeping",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 2187,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Unbinding",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 4112,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What remains",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 5313,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Long Archive continues. Still being catalogued.",
+      "words": 7,
+      "chars": 51,
+      "lines": 2,
+      "size": 29.9,
+      "vw": 3.9,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.7,
+      "top": 6476,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 6,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Erode",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      18,
+      23,
+      30,
+      45,
+      73
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Erode",
+      "size": 23,
+      "leading": 1.35,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 1
+     },
+     "measureChars": 57,
+     "max": {
+      "size": 72.8,
+      "vw": 9.5,
+      "font": "Erode",
+      "text": "The World ThatNever Happened"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#d6d3ca",
+       "top": 0,
+       "hsl": {
+        "h": 45,
+        "s": 0.13,
+        "l": 0.82
+       }
+      },
+      {
+       "color": "#e1dfd9",
+       "top": 0,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#ecebe7",
+       "top": 1024,
+       "hsl": {
+        "h": 48,
+        "s": 0.12,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#38450f",
+       "top": 6300,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.68
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.2
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.12
+      }
+     ],
+     "button": {
+      "bg": "#38450f",
+      "hsl": {
+       "h": 74,
+       "s": 0.64,
+       "l": 0.16
+      },
+      "fg": "#ecebe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Begin the exhibition ↓"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": true,
+     "height": 48,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "erode"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 6817,
+    "margins": {
+     "left": 22,
+     "right": 22
+    },
+    "sections": [
+     {
+      "sel": "header.ex-hero",
+      "tag": "header",
+      "top": 0,
+      "height": 1024,
+      "words": 28,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 22,
+      "right": 221,
+      "textLeft": 22,
+      "textRight": 221,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-1.chapter",
+      "tag": "section",
+      "top": 1024,
+      "height": 1071,
+      "words": 54,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Thiraval",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 98,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-2.chapter",
+      "tag": "section",
+      "top": 2095,
+      "height": 1926,
+      "words": 114,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "The Keeping",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 95,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-3.chapter",
+      "tag": "section",
+      "top": 4020,
+      "height": 1201,
+      "words": 99,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The Unbinding",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 93,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-4.chapter",
+      "tag": "section",
+      "top": 5221,
+      "height": 1078,
+      "words": 61,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "What remains",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 110,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.ex-close",
+      "tag": "section",
+      "top": 6300,
+      "height": 518,
+      "words": 16,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 22,
+      "right": 332,
+      "textLeft": 22,
+      "textRight": 332,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The World That Never Happened",
+      "size": 73,
+      "top": 656,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 22,
+      "n": 12
+     }
+    ],
+    "leftBlocks": 12,
+    "bodySize": 23,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.71,
+    0.49,
+    0.6,
+    0.55,
+    0.58,
+    0.74,
+    0.86
+   ],
+   "motion": {
+    "elements": 12,
+    "css": 0,
+    "transitions": 12,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 5436,
+     "screens": 6.4,
+     "words": 374,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "coastal-ruins-imaginary.jpg",
+      "cliffs-sea.jpg",
+      "listening-array.jpg",
+      "control-panel.jpg",
+      "tulum-ruin.jpg",
+      "funerary-tablet.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The World That Never Happened",
+     "words": 5,
+     "chars": 29,
+     "lines": 2,
+     "size": 44.9,
+     "vw": 11.5,
+     "font": "Erode",
+     "weight": 500,
+     "tracking": -0.02,
+     "leading": 0.96,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 524,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The World That Never Happened",
+     "words": 5,
+     "lines": 2,
+     "size": 44.9,
+     "font": "Erode"
+    },
+    "headings": [
+     {
+      "text": "The World That Never Happened",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 44.9,
+      "vw": 11.5,
+      "font": "Erode",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 524,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Thiraval",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 924,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Keeping",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1714,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Unbinding",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3164,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What remains",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4162,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Long Archive continues. Still being catalogued.",
+      "words": 7,
+      "chars": 51,
+      "lines": 2,
+      "size": 23.8,
+      "vw": 6.1,
+      "font": "Erode",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5084,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 6,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Erode",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      17,
+      20,
+      24,
+      33,
+      45
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Erode",
+      "size": 20.3,
+      "leading": 1.35,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 1
+     },
+     "measureChars": 34,
+     "max": {
+      "size": 44.9,
+      "vw": 11.5,
+      "font": "Erode",
+      "text": "The World ThatNever Happened"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#d6d3ca",
+       "top": 0,
+       "hsl": {
+        "h": 45,
+        "s": 0.13,
+        "l": 0.82
+       }
+      },
+      {
+       "color": "#e1dfd9",
+       "top": 0,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#ecebe7",
+       "top": 844,
+       "hsl": {
+        "h": 48,
+        "s": 0.12,
+        "l": 0.92
+       }
+      },
+      {
+       "color": "#38450f",
+       "top": 4933,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.68
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.2
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.12
+      }
+     ],
+     "button": {
+      "bg": "#38450f",
+      "hsl": {
+       "h": 74,
+       "s": 0.64,
+       "l": 0.16
+      },
+      "fg": "#ecebe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Begin the exhibition ↓"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 19,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "erode"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 5436,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "header.ex-hero",
+      "tag": "header",
+      "top": 0,
+      "height": 844,
+      "words": 28,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The World That",
+       "size": 45,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 47,
+      "textLeft": 20,
+      "textRight": 47,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-1.chapter",
+      "tag": "section",
+      "top": 844,
+      "height": 790,
+      "words": 54,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Thiraval",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-2.chapter",
+      "tag": "section",
+      "top": 1634,
+      "height": 1450,
+      "words": 114,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "The Keeping",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-3.chapter",
+      "tag": "section",
+      "top": 3084,
+      "height": 998,
+      "words": 99,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The Unbinding",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#chapter-4.chapter",
+      "tag": "section",
+      "top": 4082,
+      "height": 851,
+      "words": 61,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "What remains",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.ex-close",
+      "tag": "section",
+      "top": 4933,
+      "height": 503,
+      "words": 16,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 96,
+      "textLeft": 20,
+      "textRight": 96,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The World That Never Happened",
+      "size": 45,
+      "top": 524,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 12
+     }
+    ],
+    "leftBlocks": 12,
+    "bodySize": 20,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "grey-body",
+   "width": 1440,
+   "message": "The running text is a soft grey on its ground (5:1).",
+   "fix": "Set body copy in the full ink (7:1 or more). Keep the muted ink for secondary notes; pages read thin and unfinished when everything is grey.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "long-pin",
+   "width": 1440,
+   "message": "The same large text stays on screen for 3 screens in a row: \"The Keeping\"",
+   "fix": "A pinned element earns two screens, and something must change at each. Shorten the run or give every screen its own content."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 12 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect\\desktop-page-01.jpg",
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect\\tablet-page-01.jpg",
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\ronic\\Desktop\\Museum\\.taste-skill\\inspect\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
